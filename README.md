@@ -1,16 +1,12 @@
 # 💫 About Me:
-<table>
-  <tr>
-    <td>
-      🤝 I’m looking for help with code review<br>
-      🌱 I’m currently learning Typescript<br>
-      💬 Ask me about Futter, Node.js, Express
-    </td>
-    <td>
-      <img src="https://github.com/DilipKumar64/DilipKumar64/blob/main/assets/gif.gif" width="250" />
-    </td>
-  </tr>
-</table>
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <p>🤝 I’m looking for help with code review<br>
+    🌱 I’m currently learning Typescript<br>
+    💬 Ask me about Flutter, Node.js, Express</p>
+  </div>
+  <img src="https://github.com/DilipKumar64/DilipKumar64/blob/main/assets/gif.gif" width="200"/>
+</div>
 
 
 ## 🌐 Socials:

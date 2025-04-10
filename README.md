@@ -1,5 +1,16 @@
 # 💫 About Me:
-🤝 I’m looking for help with code review<br>🌱 I’m currently learning Typescript<br>💬 Ask me about Futter, Node.js, Express
+<table>
+  <tr>
+    <td>
+      🤝 I’m looking for help with code review<br>
+      🌱 I’m currently learning Typescript<br>
+      💬 Ask me about Futter, Node.js, Express
+    </td>
+    <td>
+      <img src="https://github.com/DilipKumar64/DilipKumar64/blob/main/assets/gif.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:

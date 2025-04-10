@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/DilipKumar64/DilipKumar64/blob/main/assets/gif.gif" width="150"/>
 # 💫 About Me:
 <div align="left" style="display: flex; align-items: center; gap: 20px;">
   <div>
@@ -5,7 +6,6 @@
     🌱 I’m currently learning Typescript<br>
     💬 Ask me about Flutter, Node.js, Express</p>
   </div>
-  <img align="right" src="https://github.com/DilipKumar64/DilipKumar64/blob/main/assets/gif.gif" width="200"/>
 </div>
 
 
